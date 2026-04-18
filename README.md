@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **Raj76458kumar@gmail.com** For Collaboration/Project or An
 - ⚡ Fun fact: I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raj_gupta.010) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@The Raj pyare) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raj76458kumar@gmail.com) 
+Portfolio: ('https://portfolio-rjgt.vercel.app/')
 
 <!-- Snake Game Repo View -->
 
